@@ -8,3 +8,6 @@ DANA    Hello, just one answer: I had a feeling you know much better than me!
 KHANG   I'm just as confused, just reading the instructions. You betrayed me.
 
 DANA    Thank you for help and support!
+
+KHANG   I guess we just keep the dialogue up until our session finishes?
+
