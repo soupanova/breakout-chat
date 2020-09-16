@@ -2,3 +2,5 @@ SCENE 1
 
 
 KHANG   Hello, just one question. Why did you make me start?
+
+DANA    Hello, just one answer: I had a feeling you know much better than me!
